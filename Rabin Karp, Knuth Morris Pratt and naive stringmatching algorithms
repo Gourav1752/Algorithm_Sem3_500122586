@@ -1,5 +1,5 @@
-Naive String-Matching Algorithm
-1. The naive string-matching algorithm checks for a match at every possible starting position in the text.
+1. Naive String-Matching Algorithm
+The naive string-matching algorithm checks for a match at every possible starting position in the text.
 It compares the substring of the text with the pattern character by character.
 Algorithm:
 Start from the first character of the text.
